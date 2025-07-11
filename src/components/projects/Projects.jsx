@@ -73,7 +73,7 @@ const Projects = () => {
         proType={"Featured Project"}
         proTitle={"Oshi (Awarded Web App)"}
         proDesc={"An award-winning website, developed with modern web technologies. It features a phenomenal GUI, and interactive animations. Designed with attention to detail, it offers an engaging user experience and showcases advanced frontend skills."}
-        src={'./images/Oshi.png'}
+        src={'/images/Oshi.png'}
         href={'https://oshi-tan.vercel.app/'}
         />
 
