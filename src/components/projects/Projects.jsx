@@ -81,7 +81,7 @@ const Projects = () => {
         <SmallCards
          proType={"Practice Project"}
          proTitle={"Tic Tac Toe"}
-         src={"./images/Tictactoe.PNG"}
+         src={"./images/tictactoe.PNG"}
          href={'https://github.com/aliahmad772/Tic-Tac-Toe'}
          />
          
