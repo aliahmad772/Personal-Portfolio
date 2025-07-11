@@ -30,7 +30,7 @@ export default function About() {
 
           <div className=" order-1 md:order-2 flex flex-col md:flex-row md:mb-12 justify-center items-center h-96">
             <div className="shadow-[8px_8px_0px_rgba(0,0,0,1)] border-2 border-black w-[16rem] h-[16rem] md:w-[23rem] md:h-[23rem] bg-amber-50 p-6 rounded-xl">
-              <img className="object-contain h-full w-full rounded-xl" src="../public/images/Aj.png" alt="" />
+              <img className="object-contain h-full w-full rounded-xl" src="../images/Aj.png" alt="" />
             </div>
           
           </div>

@@ -73,7 +73,7 @@ const Projects = () => {
         proType={"Featured Project"}
         proTitle={"Oshi (Awarded Web App)"}
         proDesc={"An award-winning website, developed with modern web technologies. It features a phenomenal GUI, and interactive animations. Designed with attention to detail, it offers an engaging user experience and showcases advanced frontend skills."}
-        src={'./public/images/Oshi.png'}
+        src={'./images/Oshi.png'}
         href={'https://oshi-tan.vercel.app/'}
         />
 
@@ -81,14 +81,14 @@ const Projects = () => {
         <SmallCards
          proType={"Practice Project"}
          proTitle={"Tic Tac Toe"}
-         src={"./public/images/Tictactoe.png"}
+         src={"./images/Tictactoe.png"}
          href={'https://github.com/aliahmad772/Tic-Tac-Toe'}
          />
          
         <SmallCards
          proType={"Practice Project"}
          proTitle={"Todo List"}
-         src={"./public/images/todoList.png"}
+         src={"./images/todoList.png"}
          href={'https://github.com/aliahmad772/Todo-List'}
          />
 
@@ -101,14 +101,14 @@ const Projects = () => {
         <SmallCards
          proType={"Project clone"}
          proTitle={"Microsoft Website"}
-         src={"./public/images/Microsoft.png"}
+         src={"./images/Microsoft.png"}
          href={'https://github.com/aliahmad772/Microsoft-Clone'}
          />
          
         <SmallCards
          proType={"Project clone"}
          proTitle={"Amazon Website"}
-         src={"./public/images/Amazon.png"}
+         src={"./images/Amazon.png"}
          href={'hhttps://github.com/aliahmad772/Amazon-Website/tree/main/Amazone%20Project'}
          />
 
