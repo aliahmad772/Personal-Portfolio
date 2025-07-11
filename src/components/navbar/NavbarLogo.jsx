@@ -30,7 +30,7 @@ const NavbarLogo = () => {
               },
             }
           : { duration: 0.3 }} className=' flex justify-center items-center  h-16 w-16 rounded-full bg-black text-white text-3xl font-bold'>
-         <img src="./public/images/logo.png" alt="" />
+         <img src="./images/logo.png" alt="" />
     </motion.div>
     </div>
     
