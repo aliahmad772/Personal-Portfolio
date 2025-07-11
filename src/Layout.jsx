@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Outlet, useLocation } from 'react-router-dom';
 import NavbarMain from './components/navbar/NavbarMain';
-import Footer from './components/footer/footer';
+import Footer from './components/footer/Footer';
 import { AnimatePresence, motion } from 'framer-motion';
 
 const layerColors = ['#111111', '#F97316', '#3B0764'];
