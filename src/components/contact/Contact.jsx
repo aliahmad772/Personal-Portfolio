@@ -38,7 +38,7 @@ const Contact = () => {
   };
   return (
     <div className="flex flex-col justify-center w-full ">
-      <h1 className="text-4xl md:text-8xl font-extrabold text-center pb-8  md:py-14">
+      <h1 className="text-4xl md:text-8xl font-extrabold text-center pb-8  md:pb-14 mt-10 lg:mt-24">
         Contact
       </h1>
       <form
