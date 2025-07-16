@@ -3,7 +3,7 @@ import { FaGithub } from 'react-icons/fa';
 
 const SmallCards = ({proType, proTitle, src, href}) => {
   return (
-    <div className="shadow-[8px_8px_0px_rgba(0,0,0,1)]  bg-white rounded-2xl overflow-hidden p-8 h-auto w-full lg:w-[50%]  my-10 border border-black">
+    <div className="shadow-[8px_8px_0px_rgba(0,0,0,1)]  bg-amber-50 rounded-2xl overflow-hidden p-8 h-auto w-full lg:w-[50%]  my-10 border border-black">
       <div className="relative rounded-xl w-auto border border-black/20  overflow-hidden">
         <img
           src={src} 
