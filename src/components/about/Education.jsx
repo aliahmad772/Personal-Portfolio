@@ -5,7 +5,7 @@ import LiIcon from '../liIcon/LiIcon'
 const Details = ({ position, company, companyLink, time, address, work }) => {
     const ref = useRef(null)
   return (
-    <li className='my-8 first:mt-0 last:mb-0 w-[55%] mx-auto flex flex-col items-center justify-between text-center sm:text-left'>
+    <li className='my-8 first:mt-0 last:mb-0 w-[90%] md:w-[55%] mx-auto flex flex-col items-center justify-between text-left '>
         <LiIcon ref={ref} className={"hidden sm:block"}/>
       <div>
         <h3 className='capitalize font-bold text-2xl'>

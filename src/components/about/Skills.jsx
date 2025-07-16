@@ -58,7 +58,7 @@ const Skills = () => {
             Skills
           </h1>
 
-          <p className="text-center w-[80%] mx-auto text-lg font-medium ">
+          <p className="md:text-center w-[90%] md:w-[80%] mx-auto text-lg font-medium ">
             I specialize in building modern, responsive websites using HTML,
             CSS, and JavaScript. Skilled in Tailwind CSS for fast, clean design
             and layout implementation. Experienced with ReactJS and NextJS for
